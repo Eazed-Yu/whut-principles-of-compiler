@@ -29,11 +29,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca7ba2b-013a-4504-b15d-b94b37ced45d" name="更改" comment="NFA">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+    <list default="true" id="eca7ba2b-013a-4504-b15d-b94b37ced45d" name="更改" comment="NFA 采用符合教材的算法">
+      <change afterPath="$PROJECT_DIR$/../NFA-DFA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NFA-DFA/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NFA-DFA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NFA-DFA/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,6 +451,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
@@ -477,7 +480,8 @@
       <option name="presentableId" value="Default" />
       <updated>1764862422263</updated>
       <workItem from="1764862423509" duration="907000" />
-      <workItem from="1764899787069" duration="7684000" />
+      <workItem from="1764899787069" duration="8228000" />
+      <workItem from="1765109387422" duration="2530000" />
     </task>
     <task id="LOCAL-00001" summary="NFA">
       <option name="closed" value="true" />
@@ -487,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764900002918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NFA 采用符合教材的算法">
+      <option name="closed" value="true" />
+      <created>1764907912489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764907912489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,6 +512,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NFA" />
-    <option name="LAST_COMMIT_MESSAGE" value="NFA" />
+    <MESSAGE value="NFA 采用符合教材的算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="NFA 采用符合教材的算法" />
   </component>
 </project>
